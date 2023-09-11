@@ -20,8 +20,8 @@ ok      odd-or-even     1.749s
 In case of confusion, check the commits. 
 
 ## Expected output
-> Last updated 11.09.2023  
-Number range initialized to: [659504 960184 39464 199782 595127 681016 329994 127405 955178 939462 870577]  
+Last updated 11.09.2023  
+>Number range initialized to: [659504 960184 39464 199782 595127 681016 329994 127405 955178 939462 870577]  
 659504 is even.  
 960184 is even.  
 39464 is even.  
